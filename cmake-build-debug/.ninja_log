@@ -1,0 +1,6 @@
+# ninja log v6
+12	149	7553373793235595	CMakeFiles/belajarheader.dir/hitung_umur.c.obj	884df8a7a2b86ad6
+2	504	7553376117701473	build.ninja	564685f28a9157c
+90	277	7553376120874694	CMakeFiles/belajarheader.dir/hitung_umur.c.obj	884df8a7a2b86ad6
+80	294	7553376120774768	CMakeFiles/belajarheader.dir/main.c.obj	db86501a5cdcd2db
+295	590	7553376122927743	belajarheader.exe	b68e59a73a3a48d8

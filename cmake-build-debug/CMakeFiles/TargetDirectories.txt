@@ -1,0 +1,3 @@
+C:/Users/Kristianto Wiranata/CLionProjects/belajarheader/cmake-build-debug/CMakeFiles/belajarheader.dir
+C:/Users/Kristianto Wiranata/CLionProjects/belajarheader/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kristianto Wiranata/CLionProjects/belajarheader/cmake-build-debug/CMakeFiles/rebuild_cache.dir
